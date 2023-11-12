@@ -1,0 +1,3 @@
+[submodule "components/espWifi"]
+	path = components/espWifi
+	url = git@github.com:sebgad/espWifi.git
